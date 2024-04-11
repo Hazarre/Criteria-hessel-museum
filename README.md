@@ -1,2 +1,2 @@
 # Criteria-hessel-museum
- Exploratory Data Analysis to find patterns from past collections of artwork to generate future exhibition groupings
+Exploratory Data Analysis to find patterns from past collections of artwork to generate future exhibition groupings, as part the project [Criteria at Bard College Hessel Mesuem](https://ccs.bard.edu/museum/exhibitions/629-criteria) in Winter and Spring 2021. 
